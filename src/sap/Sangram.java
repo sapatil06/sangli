@@ -6,7 +6,7 @@ public class Sangram {
 		// TODO Auto-generated method stub
 		System.out.println("Added by sangram");
 		System.out.println("India is my country");
-
+		System.out.println("Added by amit");
 	}
 
 }
